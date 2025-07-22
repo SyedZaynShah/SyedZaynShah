@@ -53,6 +53,10 @@ A fully responsive Netflix landing page built using HTML, CSS & JS
 
 🔭 Currently working on: Pushing front-end skills further! Just dropped a full Netflix UI Clone 👇  
 📌 Check it out: [Netflix UI Clone](https://github.com/SyedZaynShah/netflix-clone)
+## 🚀 Recent Work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SyedZaynShah&repo=netflix-clone&theme=react)](https://github.com/SyedZaynShah/netflix-clone)
+
 
 
 ---
