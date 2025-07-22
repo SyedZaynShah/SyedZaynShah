@@ -1,42 +1,66 @@
-# 👋 Hi, I'm Syed Zayn Shah
+# 👋 Hey there! I'm Syed Zayn Shah
 
-🎓 **Student of Computer Science** at Comsats University  
-💻 **Front-End Developer** | 📱 **Mobile Developer (Flutter)**  
-🚀 **Aiming to Learn AI & ML** | 🎨 Jack of all trades, master in some
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate Computer Science student, eager to build beautiful user experiences and robust mobile apps. Whether it's coding up pixel-perfect interfaces or exploring new technologies, I love learning by doing.
-
-- 🔭 **Currently working on:** Expanding my front-end and Flutter skills, and starting my journey into AI & ML.
-- 🌱 **Always learning:** From web to mobile to artificial intelligence!
-- 💡 **Philosophy:** “Jack of all trades, master in some.”
+🎓 **Computer Science Student** | 💻 **Front-End & Mobile Developer**  
+🚀 Aspiring **AI/ML Engineer** | 🎨 Jack of all trades, master in some
 
 ---
 
-## 🌟 Featured Project
+## 🧠 About Me
 
-### 🎬 Netflix Clone Interface
-A front-end clone of Netflix built using HTML, CSS, and JavaScript—focused on responsive design and modern UI/UX.
+I'm a curious and passionate developer from **COMSATS University**, driven by design, logic, and innovation. Whether I’m crafting **modern UI/UX** for web apps or building **cross-platform apps in Flutter**, I believe in learning by doing.
 
----
-
-## 🛠️ Skills
-
-- **Front-End:** HTML, CSS, JavaScript
-- **Mobile Development:** Flutter, Dart
-- **Learning:** Artificial Intelligence, Machine Learning
+> “Jack of all trades, master in some.”
 
 ---
 
-## 📫 Connect
-
-*Currently not active on social media—stay tuned!*
+## 🚧 Currently Working On
+- 📱 Enhancing mobile app development with **Flutter**
+- 🧠 Starting my journey into **Artificial Intelligence & Machine Learning**
+- 🎯 Building projects that merge **design and intelligence**
 
 ---
 
-<!--
-**SyedZaynShah/SyedZaynShah** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Featured Project
+
+### 🎬 Netflix Clone Interface  
+A front-end replica of Netflix focused on **responsive design** and **clean UI/UX**, built with:
+- HTML
+- CSS
+- JavaScript
+
+📸 *Screenshots & demo coming soon!*
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Front-End Development
+`HTML` • `CSS` • `JavaScript`
+
+### 📱 Mobile Development
+`Flutter` • `Dart`
+
+### 🔍 Learning & Exploring
+`Python` • `AI & Machine Learning` • `GitHub` • `Firebase`
+
+---
+
+## 📈 GitHub Stats (optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedZaynShah&show_icons=true&theme=radical" alt="Zayn's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+> Currently taking a break from socials — but something cool is coming soon 👀  
+In the meantime, feel free to check out my work here on GitHub!
+
+---
+
+<!-- 
+✨ Fun Fact: This profile README appears directly on my GitHub profile! 
+SyedZaynShah/SyedZaynShah is a special repository ✨ 
 -->
