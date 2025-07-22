@@ -1,70 +1,54 @@
-<h1 align="center">👋 Hey, I'm Syed Zayn Shah</h1>
+<h1 align="center">✨ Syed Zayn Shah</h1>
 
 <p align="center">
-  🎓 Computer Science Student • 💻 Front-End & Flutter Developer • 🤖 AI/ML Enthusiast <br>
-  <i>“Jack of all trades — master in the ones that matter.”</i>
+  🎓 Computer Science Student • 💻 Flutter & Front-End Dev • 🤖 AI/ML Enthusiast  
+  <br><i>“Jack of all trades — master in the ones that matter.”</i>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I'm Zayn — a curious developer from **COMSATS University** who blends creativity with code.  
-I'm passionate about designing stunning interfaces, building efficient mobile apps, and diving into the world of Artificial Intelligence. I believe in learning by doing and growing with every line of code.
+Hi! I'm Zayn — a passionate developer from **COMSATS University**, focused on designing modern UI/UX, building mobile apps with **Flutter**, and stepping into the world of **Artificial Intelligence & Machine Learning**.
 
-- 🔭 Currently focused on mastering **Flutter** and stepping into **AI & ML**
-- 🌱 Always learning new tech to stay ahead of the curve
-- 🛠️ Building real-world projects to level up continuously
+I believe in learning by doing and growing through projects that challenge and inspire.
 
----
-
-## 🚀 Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="120"><b>Languages</b></td>
-<td>
-
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Frameworks</b></td>
-<td>
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-</td>
-</tr>
-</table>
+- 🔭 Currently mastering **Flutter** and diving deep into **AI/ML**
+- 🧠 Exploring how design, logic & data intersect
+- 🚀 Building practical, smart, and clean user experiences
 
 ---
 
-## 📱 Featured Project: Netflix Clone
+## 🛠️ Tech Stack
 
-A front-end Netflix clone built using HTML, CSS & JavaScript — focused on:
-- 🎯 Pixel-perfect responsive design  
-- 🌈 Clean and modern UI/UX principles  
-- 📱 Mobile-first approach  
+### 💻 Languages & Tools  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> 🔗 **Live Preview & Code Coming Soon**
+### 📱 Mobile & Front-End  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🎬 Featured Project
+
+### Netflix UI Clone  
+A modern, responsive Netflix interface built using HTML, CSS, and JavaScript.
+
+> 🎯 Pixel-perfect layout  
+> 📱 Mobile-first design  
+> ⚡ Clean UI/UX principles
+
+🔗 **Live Demo & Repo Coming Soon**
 
 ---
 
@@ -77,18 +61,26 @@ A front-end Netflix clone built using HTML, CSS & JavaScript — focused on:
 
 ---
 
-## 📌 Current Goals
+## 🌱 Current Goals
 
-- 🔧 Learn **AI & Machine Learning** (Python + TensorFlow/PyTorch)
-- 🛠 Build intelligent Flutter apps powered by AI
-- 📚 Create open-source projects and contribute to tech communities
+- 💡 Learn **AI & ML** (Python, scikit-learn, TensorFlow)
+- 📲 Build AI-powered **Flutter apps**
+- 📚 Contribute to open-source and grow on GitHub
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-> Currently not active on socials — but something's cooking 👀  
-Stay tuned...
+<p align="center">
+  <a href="https://www.linkedin.com/in/zain-shah-91b419321" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sayedzaynshah/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <!--
 **SyedZaynShah/SyedZaynShah** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
