@@ -51,7 +51,9 @@ From elegant front-ends to powerful mobile apps, I'm always exploring the inters
 A fully responsive Netflix landing page built using HTML, CSS & JS  
 > 👀 Mobile-first layout, modern UI, and animation-ready components.  
 
-🔗 *Live demo coming soon*
+🔭 Currently working on: Pushing front-end skills further! Just dropped a full Netflix UI Clone 👇  
+📌 Check it out: [Netflix UI Clone](https://github.com/SyedZaynShah/netflix-clone)
+
 
 ---
 
